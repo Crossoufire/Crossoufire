@@ -4,9 +4,9 @@
 <img align="right" src="https://github-readme-stats-phi-umber.vercel.app/api?username=crossoufire&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&hide_title=true&count_private=true" width="50%">
 
 - 🔭 I’m currently working on my website [MyLists](https://github.com/crossoufire/MyLists)
-- 🌱 My interests are science, ML and theoretical chemistry
+- 🌱 My interests are science in general!
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about python stuff or theoretical chemistry
+- 💬 Ask me about python stuff or science :D
 - 📫 How to reach me: vince.delmas.38@gmail.com
 - 😄 Pronouns: he/him
 

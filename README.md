@@ -5,10 +5,6 @@
 
 - 🔭 I’m currently working on my website [MyLists](https://github.com/crossoufire/MyLists)
 - 🌱 My interests are science in general!
-- 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about python stuff or science :D
-- 📫 How to reach me: vince.delmas.38@gmail.com
-- 😄 Pronouns: he/him
 
 <br>
 <img align="left" src="https://github-readme-stats-phi-umber.vercel.app/api/top-langs/?username=crossoufire&theme=radical&hide_border=true&size_weight=0.5&count_weight=0.5&count_private=true&langs_count=8&layout=compact" width="40%">
